@@ -76,8 +76,10 @@ This project can be deployed easily using Streamlit Cloud, allowing you to share
 
 ## 👨‍💻 Author
 
-Divyash Saxena
+Made by : 
+Aditya Bhardwaj 
 
-🎓 B.Tech CSE (AI & ML), JSS Academy of Technical Education, Noida
+
+🎓 B.Tech IT , JSS Academy of Technical Education, Noida
 
 💻 Passionate about AI, Machine Learning, and Web Development
