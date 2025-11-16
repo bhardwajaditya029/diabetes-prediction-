@@ -82,4 +82,4 @@ Aditya Bhardwaj
 
 🎓 B.Tech IT , JSS Academy of Technical Education, Noida
 
-💻 Passionate about AI, Machine Learning, and Web Development
+💻 Passionate about DevOps, Machine Learning, and Software Development
